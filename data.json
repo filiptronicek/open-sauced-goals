@@ -1,7 +1,7 @@
 [
   {
     "full_name": "filiptronicek/trnck.dev",
-    "stargazers_count": 0,
+    "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -13,15 +13,15 @@
   },
   {
     "full_name": "torvalds/linux",
-    "stargazers_count": 94509,
+    "stargazers_count": 94675,
     "open_issues_count": 325,
-    "forks_count": 32641
+    "forks_count": 32678
   },
   {
     "full_name": "torvalds/linux",
-    "stargazers_count": 94509,
+    "stargazers_count": 94675,
     "open_issues_count": 325,
-    "forks_count": 32641
+    "forks_count": 32678
   },
   {
     "full_name": "aperta-principium/Interclip",
@@ -37,8 +37,8 @@
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 161,
-    "open_issues_count": 33,
+    "stargazers_count": 162,
+    "open_issues_count": 32,
     "forks_count": 53
   }
 ]
