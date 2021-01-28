@@ -2,7 +2,7 @@
   {
     "full_name": "filiptronicek/taskord-mobile",
     "stargazers_count": 1,
-    "open_issues_count": 11,
+    "open_issues_count": 9,
     "forks_count": 0
   },
   {
@@ -14,7 +14,7 @@
   {
     "full_name": "filiptronicek/iclip-mobile",
     "stargazers_count": 1,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 1
   },
   {
@@ -31,15 +31,15 @@
   },
   {
     "full_name": "torvalds/linux",
-    "stargazers_count": 104278,
+    "stargazers_count": 104377,
     "open_issues_count": 324,
-    "forks_count": 35478
+    "forks_count": 35499
   },
   {
     "full_name": "torvalds/linux",
-    "stargazers_count": 104278,
+    "stargazers_count": 104377,
     "open_issues_count": 324,
-    "forks_count": 35478
+    "forks_count": 35499
   },
   {
     "full_name": "aperta-principium/Interclip",
@@ -57,6 +57,6 @@
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 332,
     "open_issues_count": 24,
-    "forks_count": 95
+    "forks_count": 96
   }
 ]
