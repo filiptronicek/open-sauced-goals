@@ -1,26 +1,26 @@
 [
   {
     "full_name": "torvalds/subsurface-for-dirk",
-    "stargazers_count": 170,
+    "stargazers_count": 171,
     "open_issues_count": 0,
     "forks_count": 44
   },
   {
     "full_name": "nodejs/node",
-    "stargazers_count": 80904,
-    "open_issues_count": 1441,
-    "forks_count": 20944
+    "stargazers_count": 80939,
+    "open_issues_count": 1444,
+    "forks_count": 20957
   },
   {
     "full_name": "taskordhq/web",
     "stargazers_count": 6,
-    "open_issues_count": 9,
+    "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "Purii/react-native-tableview-simple",
-    "stargazers_count": 391,
-    "open_issues_count": 19,
+    "stargazers_count": 392,
+    "open_issues_count": 21,
     "forks_count": 59
   },
   {
@@ -44,7 +44,7 @@
   {
     "full_name": "filiptronicek/iclip-mobile",
     "stargazers_count": 8,
-    "open_issues_count": 4,
+    "open_issues_count": 9,
     "forks_count": 1
   },
   {
@@ -61,15 +61,15 @@
   },
   {
     "full_name": "torvalds/linux",
-    "stargazers_count": 116078,
+    "stargazers_count": 116158,
     "open_issues_count": 324,
-    "forks_count": 38298
+    "forks_count": 38319
   },
   {
     "full_name": "torvalds/linux",
-    "stargazers_count": 116078,
+    "stargazers_count": 116158,
     "open_issues_count": 324,
-    "forks_count": 38298
+    "forks_count": 38319
   },
   {
     "full_name": "aperta-principium/Interclip",
@@ -85,8 +85,8 @@
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 474,
-    "open_issues_count": 34,
-    "forks_count": 135
+    "stargazers_count": 476,
+    "open_issues_count": 33,
+    "forks_count": 136
   }
 ]
