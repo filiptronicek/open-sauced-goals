@@ -7,9 +7,9 @@
   },
   {
     "full_name": "nodejs/node",
-    "stargazers_count": 80939,
-    "open_issues_count": 1444,
-    "forks_count": 20957
+    "stargazers_count": 80981,
+    "open_issues_count": 1443,
+    "forks_count": 20976
   },
   {
     "full_name": "taskordhq/web",
@@ -44,7 +44,7 @@
   {
     "full_name": "filiptronicek/iclip-mobile",
     "stargazers_count": 8,
-    "open_issues_count": 9,
+    "open_issues_count": 10,
     "forks_count": 1
   },
   {
@@ -61,15 +61,15 @@
   },
   {
     "full_name": "torvalds/linux",
-    "stargazers_count": 116158,
+    "stargazers_count": 116263,
     "open_issues_count": 324,
-    "forks_count": 38319
+    "forks_count": 38370
   },
   {
     "full_name": "torvalds/linux",
-    "stargazers_count": 116158,
+    "stargazers_count": 116263,
     "open_issues_count": 324,
-    "forks_count": 38319
+    "forks_count": 38370
   },
   {
     "full_name": "aperta-principium/Interclip",
@@ -87,6 +87,6 @@
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 476,
     "open_issues_count": 33,
-    "forks_count": 136
+    "forks_count": 135
   }
 ]
