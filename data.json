@@ -7,19 +7,19 @@
   },
   {
     "full_name": "nodejs/node",
-    "stargazers_count": 81086,
-    "open_issues_count": 1446,
-    "forks_count": 21026
+    "stargazers_count": 81130,
+    "open_issues_count": 1456,
+    "forks_count": 21045
   },
   {
     "full_name": "taskordhq/web",
     "stargazers_count": 6,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 0
   },
   {
     "full_name": "Purii/react-native-tableview-simple",
-    "stargazers_count": 396,
+    "stargazers_count": 398,
     "open_issues_count": 22,
     "forks_count": 59
   },
@@ -43,8 +43,8 @@
   },
   {
     "full_name": "filiptronicek/iclip-mobile",
-    "stargazers_count": 9,
-    "open_issues_count": 7,
+    "stargazers_count": 10,
+    "open_issues_count": 8,
     "forks_count": 2
   },
   {
@@ -61,32 +61,32 @@
   },
   {
     "full_name": "torvalds/linux",
-    "stargazers_count": 116510,
+    "stargazers_count": 116601,
     "open_issues_count": 324,
-    "forks_count": 38433
+    "forks_count": 38466
   },
   {
     "full_name": "torvalds/linux",
-    "stargazers_count": 116510,
+    "stargazers_count": 116601,
     "open_issues_count": 324,
-    "forks_count": 38433
+    "forks_count": 38466
   },
   {
     "full_name": "aperta-principium/Interclip",
     "stargazers_count": 14,
-    "open_issues_count": 6,
+    "open_issues_count": 7,
     "forks_count": 4
   },
   {
     "full_name": "aperta-principium/Interclip",
     "stargazers_count": 14,
-    "open_issues_count": 6,
+    "open_issues_count": 7,
     "forks_count": 4
   },
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 477,
-    "open_issues_count": 34,
+    "open_issues_count": 35,
     "forks_count": 136
   }
 ]
