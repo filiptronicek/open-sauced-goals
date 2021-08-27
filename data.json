@@ -7,15 +7,15 @@
   },
   {
     "full_name": "torvalds/subsurface-for-dirk",
-    "stargazers_count": 172,
+    "stargazers_count": 173,
     "open_issues_count": 0,
     "forks_count": 46
   },
   {
     "full_name": "nodejs/node",
-    "stargazers_count": 81182,
-    "open_issues_count": 1474,
-    "forks_count": 21078
+    "stargazers_count": 81219,
+    "open_issues_count": 1479,
+    "forks_count": 21104
   },
   {
     "full_name": "taskordhq/web",
@@ -50,7 +50,7 @@
   {
     "full_name": "filiptronicek/iclip-mobile",
     "stargazers_count": 10,
-    "open_issues_count": 5,
+    "open_issues_count": 7,
     "forks_count": 2
   },
   {
@@ -67,15 +67,15 @@
   },
   {
     "full_name": "torvalds/linux",
-    "stargazers_count": 116793,
+    "stargazers_count": 116929,
     "open_issues_count": 324,
-    "forks_count": 38535
+    "forks_count": 38567
   },
   {
     "full_name": "torvalds/linux",
-    "stargazers_count": 116793,
+    "stargazers_count": 116929,
     "open_issues_count": 324,
-    "forks_count": 38535
+    "forks_count": 38567
   },
   {
     "full_name": "aperta-principium/Interclip",
@@ -91,8 +91,8 @@
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 480,
-    "open_issues_count": 36,
+    "stargazers_count": 481,
+    "open_issues_count": 35,
     "forks_count": 138
   }
 ]

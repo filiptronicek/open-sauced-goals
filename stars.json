@@ -1,0 +1,182 @@
+[
+  {
+    "full_name": "uraimo/run-on-arch-action",
+    "stargazers_count": 227,
+    "open_issues_count": 16,
+    "forks_count": 54
+  },
+  {
+    "full_name": "chromium/chromium",
+    "stargazers_count": 10268,
+    "open_issues_count": 36,
+    "forks_count": 4038
+  },
+  {
+    "full_name": "actions/checkout",
+    "stargazers_count": 1802,
+    "open_issues_count": 183,
+    "forks_count": 612
+  },
+  {
+    "full_name": "andresz1/size-limit-action",
+    "stargazers_count": 136,
+    "open_issues_count": 16,
+    "forks_count": 30
+  },
+  {
+    "full_name": "jshttp/mime-db",
+    "stargazers_count": 665,
+    "open_issues_count": 19,
+    "forks_count": 196
+  },
+  {
+    "full_name": "mTvare6/hello-world.rs",
+    "stargazers_count": 333,
+    "open_issues_count": 6,
+    "forks_count": 26
+  },
+  {
+    "full_name": "gitpod-io/leeway",
+    "stargazers_count": 51,
+    "open_issues_count": 13,
+    "forks_count": 12
+  },
+  {
+    "full_name": "livewire-ui/modal",
+    "stargazers_count": 298,
+    "open_issues_count": 7,
+    "forks_count": 30
+  },
+  {
+    "full_name": "mrousavy/react-native-mmkv",
+    "stargazers_count": 831,
+    "open_issues_count": 28,
+    "forks_count": 25
+  },
+  {
+    "full_name": "expo/config-plugins",
+    "stargazers_count": 32,
+    "open_issues_count": 4,
+    "forks_count": 4
+  },
+  {
+    "full_name": "gitpod-io/roadmap",
+    "stargazers_count": 12,
+    "open_issues_count": 15,
+    "forks_count": 0
+  },
+  {
+    "full_name": "vvo/next-iron-session",
+    "stargazers_count": 847,
+    "open_issues_count": 25,
+    "forks_count": 87
+  },
+  {
+    "full_name": "quilljs/quill",
+    "stargazers_count": 30686,
+    "open_issues_count": 1117,
+    "forks_count": 2546
+  },
+  {
+    "full_name": "systemd/systemd",
+    "stargazers_count": 8364,
+    "open_issues_count": 1617,
+    "forks_count": 2658
+  },
+  {
+    "full_name": "protocolbuffers/protobuf",
+    "stargazers_count": 50278,
+    "open_issues_count": 1260,
+    "forks_count": 13157
+  },
+  {
+    "full_name": "swc-project/swc",
+    "stargazers_count": 14599,
+    "open_issues_count": 141,
+    "forks_count": 400
+  },
+  {
+    "full_name": "CZ-NIC/knot-resolver",
+    "stargazers_count": 213,
+    "open_issues_count": 1,
+    "forks_count": 41
+  },
+  {
+    "full_name": "delta-craft/delta-craft-portal",
+    "stargazers_count": 3,
+    "open_issues_count": 3,
+    "forks_count": 1
+  },
+  {
+    "full_name": "tauri-apps/tauri",
+    "stargazers_count": 21575,
+    "open_issues_count": 81,
+    "forks_count": 485
+  },
+  {
+    "full_name": "felix-fly/openwrt-ohmyzsh",
+    "stargazers_count": 13,
+    "open_issues_count": 1,
+    "forks_count": 2
+  },
+  {
+    "full_name": "calendso/calendso",
+    "stargazers_count": 6101,
+    "open_issues_count": 56,
+    "forks_count": 530
+  },
+  {
+    "full_name": "js-temporal/temporal-polyfill",
+    "stargazers_count": 44,
+    "open_issues_count": 10,
+    "forks_count": 4
+  },
+  {
+    "full_name": "Financial-Times/polyfill-service",
+    "stargazers_count": 5467,
+    "open_issues_count": 25,
+    "forks_count": 500
+  },
+  {
+    "full_name": "xmldom/xmldom",
+    "stargazers_count": 123,
+    "open_issues_count": 47,
+    "forks_count": 44
+  },
+  {
+    "full_name": "cabaletta/baritone",
+    "stargazers_count": 3487,
+    "open_issues_count": 594,
+    "forks_count": 849
+  },
+  {
+    "full_name": "delta-craft/delta-craft-teams-plugin",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "kkoudelka/DeltaCraft",
+    "stargazers_count": 4,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "idealo/imagededup",
+    "stargazers_count": 3766,
+    "open_issues_count": 25,
+    "forks_count": 320
+  },
+  {
+    "full_name": "nikcheerla/neuralhash",
+    "stargazers_count": 135,
+    "open_issues_count": 2,
+    "forks_count": 21
+  },
+  {
+    "full_name": "gpbl/react-day-picker",
+    "stargazers_count": 4270,
+    "open_issues_count": 41,
+    "forks_count": 535
+  }
+]
