@@ -1,49 +1,49 @@
 [
   {
     "full_name": "microsoft/vscode-pull-request-github",
-    "stargazers_count": 1690,
-    "open_issues_count": 451,
-    "forks_count": 329
+    "stargazers_count": 1691,
+    "open_issues_count": 452,
+    "forks_count": 330
   },
   {
     "full_name": "golang/go",
-    "stargazers_count": 89309,
-    "open_issues_count": 7472,
-    "forks_count": 13112
+    "stargazers_count": 89342,
+    "open_issues_count": 7468,
+    "forks_count": 13129
   },
   {
     "full_name": "hoppscotch/hoppscotch",
-    "stargazers_count": 30801,
-    "open_issues_count": 33,
-    "forks_count": 2139
+    "stargazers_count": 30839,
+    "open_issues_count": 32,
+    "forks_count": 2147
   },
   {
     "full_name": "github-php/sponsors",
-    "stargazers_count": 50,
-    "open_issues_count": 12,
+    "stargazers_count": 51,
+    "open_issues_count": 13,
     "forks_count": 3
   },
   {
     "full_name": "microsoft/msquic",
-    "stargazers_count": 2280,
-    "open_issues_count": 76,
-    "forks_count": 262
+    "stargazers_count": 2281,
+    "open_issues_count": 77,
+    "forks_count": 263
   },
   {
     "full_name": "uraimo/run-on-arch-action",
-    "stargazers_count": 233,
+    "stargazers_count": 234,
     "open_issues_count": 16,
     "forks_count": 54
   },
   {
     "full_name": "chromium/chromium",
-    "stargazers_count": 10285,
+    "stargazers_count": 10293,
     "open_issues_count": 36,
-    "forks_count": 4048
+    "forks_count": 4049
   },
   {
     "full_name": "actions/checkout",
-    "stargazers_count": 1812,
+    "stargazers_count": 1817,
     "open_issues_count": 184,
     "forks_count": 613
   },
@@ -56,14 +56,14 @@
   {
     "full_name": "jshttp/mime-db",
     "stargazers_count": 666,
-    "open_issues_count": 19,
+    "open_issues_count": 18,
     "forks_count": 195
   },
   {
     "full_name": "mTvare6/hello-world.rs",
-    "stargazers_count": 354,
+    "stargazers_count": 370,
     "open_issues_count": 4,
-    "forks_count": 26
+    "forks_count": 25
   },
   {
     "full_name": "gitpod-io/leeway",
@@ -73,14 +73,14 @@
   },
   {
     "full_name": "livewire-ui/modal",
-    "stargazers_count": 304,
-    "open_issues_count": 7,
+    "stargazers_count": 305,
+    "open_issues_count": 8,
     "forks_count": 31
   },
   {
     "full_name": "mrousavy/react-native-mmkv",
-    "stargazers_count": 840,
-    "open_issues_count": 29,
+    "stargazers_count": 847,
+    "open_issues_count": 30,
     "forks_count": 26
   },
   {
@@ -97,32 +97,32 @@
   },
   {
     "full_name": "vvo/next-iron-session",
-    "stargazers_count": 854,
-    "open_issues_count": 28,
-    "forks_count": 91
+    "stargazers_count": 859,
+    "open_issues_count": 29,
+    "forks_count": 92
   },
   {
     "full_name": "quilljs/quill",
-    "stargazers_count": 30724,
+    "stargazers_count": 30734,
     "open_issues_count": 1119,
-    "forks_count": 2551
+    "forks_count": 2556
   },
   {
     "full_name": "systemd/systemd",
-    "stargazers_count": 8385,
-    "open_issues_count": 1632,
+    "stargazers_count": 8393,
+    "open_issues_count": 1630,
     "forks_count": 2663
   },
   {
     "full_name": "protocolbuffers/protobuf",
-    "stargazers_count": 50326,
-    "open_issues_count": 1245,
-    "forks_count": 13173
+    "stargazers_count": 50352,
+    "open_issues_count": 1244,
+    "forks_count": 13177
   },
   {
     "full_name": "swc-project/swc",
-    "stargazers_count": 14703,
-    "open_issues_count": 140,
+    "stargazers_count": 14738,
+    "open_issues_count": 139,
     "forks_count": 405
   },
   {
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "tauri-apps/tauri",
-    "stargazers_count": 21733,
-    "open_issues_count": 90,
-    "forks_count": 493
+    "stargazers_count": 21760,
+    "open_issues_count": 93,
+    "forks_count": 495
   },
   {
     "full_name": "felix-fly/openwrt-ohmyzsh",
@@ -151,32 +151,32 @@
   },
   {
     "full_name": "calendso/calendso",
-    "stargazers_count": 6143,
-    "open_issues_count": 56,
-    "forks_count": 537
+    "stargazers_count": 6158,
+    "open_issues_count": 58,
+    "forks_count": 542
   },
   {
     "full_name": "js-temporal/temporal-polyfill",
-    "stargazers_count": 45,
+    "stargazers_count": 46,
     "open_issues_count": 10,
     "forks_count": 4
   },
   {
     "full_name": "Financial-Times/polyfill-service",
-    "stargazers_count": 5472,
+    "stargazers_count": 5474,
     "open_issues_count": 25,
-    "forks_count": 499
+    "forks_count": 501
   },
   {
     "full_name": "xmldom/xmldom",
     "stargazers_count": 128,
-    "open_issues_count": 44,
+    "open_issues_count": 45,
     "forks_count": 44
   },
   {
     "full_name": "cabaletta/baritone",
-    "stargazers_count": 3502,
-    "open_issues_count": 605,
-    "forks_count": 854
+    "stargazers_count": 3505,
+    "open_issues_count": 604,
+    "forks_count": 859
   }
 ]
