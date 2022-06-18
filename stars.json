@@ -1,57 +1,57 @@
 [
   {
     "full_name": "postcss/autoprefixer",
-    "stargazers_count": 20400,
+    "stargazers_count": 20402,
     "open_issues_count": 33,
-    "forks_count": 1257
+    "forks_count": 1259
   },
   {
     "full_name": "argyleink/gui-challenges",
-    "stargazers_count": 1449,
+    "stargazers_count": 1463,
     "open_issues_count": 10,
-    "forks_count": 190
+    "forks_count": 192
   },
   {
     "full_name": "MarcAnt01/Fluent-Screen-Recorder",
-    "stargazers_count": 369,
+    "stargazers_count": 372,
     "open_issues_count": 26,
     "forks_count": 28
   },
   {
     "full_name": "docker/login-action",
-    "stargazers_count": 457,
+    "stargazers_count": 458,
     "open_issues_count": 6,
-    "forks_count": 96
+    "forks_count": 97
   },
   {
     "full_name": "docker/build-push-action",
-    "stargazers_count": 2411,
-    "open_issues_count": 28,
-    "forks_count": 354
+    "stargazers_count": 2422,
+    "open_issues_count": 30,
+    "forks_count": 357
   },
   {
     "full_name": "marceloprates/prettymaps",
-    "stargazers_count": 8055,
+    "stargazers_count": 8057,
     "open_issues_count": 36,
     "forks_count": 365
   },
   {
     "full_name": "microsoft/vscode-pull-request-github",
-    "stargazers_count": 1865,
-    "open_issues_count": 345,
-    "forks_count": 422
+    "stargazers_count": 1867,
+    "open_issues_count": 346,
+    "forks_count": 423
   },
   {
     "full_name": "golang/go",
-    "stargazers_count": 100633,
-    "open_issues_count": 7791,
-    "forks_count": 14971
+    "stargazers_count": 100733,
+    "open_issues_count": 7767,
+    "forks_count": 14989
   },
   {
     "full_name": "hoppscotch/hoppscotch",
-    "stargazers_count": 44287,
-    "open_issues_count": 92,
-    "forks_count": 2969
+    "stargazers_count": 44380,
+    "open_issues_count": 91,
+    "forks_count": 2982
   },
   {
     "full_name": "github-php/sponsors",
@@ -61,44 +61,44 @@
   },
   {
     "full_name": "microsoft/msquic",
-    "stargazers_count": 2835,
-    "open_issues_count": 98,
+    "stargazers_count": 2838,
+    "open_issues_count": 100,
     "forks_count": 338
   },
   {
     "full_name": "uraimo/run-on-arch-action",
-    "stargazers_count": 365,
+    "stargazers_count": 367,
     "open_issues_count": 30,
-    "forks_count": 77
+    "forks_count": 78
   },
   {
     "full_name": "chromium/chromium",
-    "stargazers_count": 12327,
+    "stargazers_count": 12350,
     "open_issues_count": 48,
-    "forks_count": 4732
+    "forks_count": 4736
   },
   {
     "full_name": "actions/checkout",
-    "stargazers_count": 2756,
-    "open_issues_count": 284,
-    "forks_count": 910
+    "stargazers_count": 2763,
+    "open_issues_count": 286,
+    "forks_count": 912
   },
   {
     "full_name": "andresz1/size-limit-action",
-    "stargazers_count": 312,
+    "stargazers_count": 313,
     "open_issues_count": 16,
     "forks_count": 43
   },
   {
     "full_name": "jshttp/mime-db",
-    "stargazers_count": 816,
+    "stargazers_count": 822,
     "open_issues_count": 13,
     "forks_count": 216
   },
   {
     "full_name": "mTvare6/hello-world.rs",
-    "stargazers_count": 2088,
-    "open_issues_count": 79,
+    "stargazers_count": 2112,
+    "open_issues_count": 78,
     "forks_count": 64
   },
   {
@@ -109,20 +109,20 @@
   },
   {
     "full_name": "livewire-ui/modal",
-    "stargazers_count": 685,
+    "stargazers_count": 686,
     "open_issues_count": 9,
-    "forks_count": 76
+    "forks_count": 77
   },
   {
     "full_name": "mrousavy/react-native-mmkv",
-    "stargazers_count": 2110,
-    "open_issues_count": 23,
-    "forks_count": 94
+    "stargazers_count": 2123,
+    "open_issues_count": 24,
+    "forks_count": 95
   },
   {
     "full_name": "expo/config-plugins",
-    "stargazers_count": 142,
-    "open_issues_count": 20,
+    "stargazers_count": 145,
+    "open_issues_count": 21,
     "forks_count": 27
   },
   {
@@ -133,37 +133,37 @@
   },
   {
     "full_name": "vvo/next-iron-session",
-    "stargazers_count": 1572,
+    "stargazers_count": 1583,
     "open_issues_count": 33,
-    "forks_count": 174
+    "forks_count": 176
   },
   {
     "full_name": "quilljs/quill",
-    "stargazers_count": 32881,
-    "open_issues_count": 1229,
-    "forks_count": 2815
+    "stargazers_count": 32908,
+    "open_issues_count": 1231,
+    "forks_count": 2820
   },
   {
     "full_name": "systemd/systemd",
-    "stargazers_count": 9698,
-    "open_issues_count": 1887,
-    "forks_count": 2982
+    "stargazers_count": 9706,
+    "open_issues_count": 1898,
+    "forks_count": 2987
   },
   {
     "full_name": "protocolbuffers/protobuf",
-    "stargazers_count": 54941,
-    "open_issues_count": 877,
-    "forks_count": 14179
+    "stargazers_count": 54982,
+    "open_issues_count": 880,
+    "forks_count": 14187
   },
   {
     "full_name": "swc-project/swc",
-    "stargazers_count": 22518,
-    "open_issues_count": 255,
-    "forks_count": 723
+    "stargazers_count": 22564,
+    "open_issues_count": 254,
+    "forks_count": 725
   },
   {
     "full_name": "CZ-NIC/knot-resolver",
-    "stargazers_count": 250,
+    "stargazers_count": 251,
     "open_issues_count": 1,
     "forks_count": 47
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "tauri-apps/tauri",
-    "stargazers_count": 42409,
-    "open_issues_count": 182,
-    "forks_count": 1043
+    "stargazers_count": 43246,
+    "open_issues_count": 186,
+    "forks_count": 1061
   }
 ]
